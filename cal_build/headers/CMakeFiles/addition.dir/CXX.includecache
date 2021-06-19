@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jaladi/Projects/C++Projects/Calculator/source/headers/addition.cpp
+addition.h
+/home/jaladi/Projects/C++Projects/Calculator/source/headers/addition.h
+
+/home/jaladi/Projects/C++Projects/Calculator/source/headers/addition.h
+iostream
+-
+

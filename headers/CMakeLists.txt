@@ -1,0 +1,7 @@
+add_library(displayMenu displayMenu.cpp)
+add_library(addition addition.cpp)
+add_library(subtraction subtraction.cpp)
+add_library(multiplication multiplication.cpp)
+add_library(division division.cpp)
+add_library(moduli moduli.cpp)
+add_library(displayResult displayResult.cpp)

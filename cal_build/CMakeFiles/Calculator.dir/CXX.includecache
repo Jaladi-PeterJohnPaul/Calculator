@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../headers/addition.h
+iostream
+-
+
+../headers/displayMenu.h
+
+../headers/displayResult.h
+
+../headers/division.h
+
+../headers/moduli.h
+
+../headers/multiplication.h
+
+../headers/subtraction.h
+
+/home/jaladi/Projects/C++Projects/Calculator/source/main.cpp
+iostream
+-
+displayMenu.h
+-
+addition.h
+-
+subtraction.h
+-
+multiplication.h
+-
+division.h
+-
+moduli.h
+-
+displayResult.h
+-
+

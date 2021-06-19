@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdisplayResult.a  CMakeFiles/displayResult.dir/displayResult.cpp.o
+/usr/bin/ranlib libdisplayResult.a

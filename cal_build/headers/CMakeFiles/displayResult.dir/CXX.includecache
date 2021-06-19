@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jaladi/Projects/C++Projects/Calculator/source/headers/displayResult.cpp
+iostream
+-
+displayResult.h
+/home/jaladi/Projects/C++Projects/Calculator/source/headers/displayResult.h
+
+/home/jaladi/Projects/C++Projects/Calculator/source/headers/displayResult.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Calculator.dir/main.cpp.o  -o Calculator   -L/home/jaladi/Projects/C++Projects/Calculator/source/headers  -Wl,-rpath,/home/jaladi/Projects/C++Projects/Calculator/source/headers headers/libdisplayMenu.a headers/libaddition.a headers/libsubtraction.a headers/libmultiplication.a headers/libdivision.a headers/libmoduli.a headers/libdisplayResult.a 

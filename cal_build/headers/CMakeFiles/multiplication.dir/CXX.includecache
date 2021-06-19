@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jaladi/Projects/C++Projects/Calculator/source/headers/multiplication.cpp
+multiplication.h
+/home/jaladi/Projects/C++Projects/Calculator/source/headers/multiplication.h
+
+/home/jaladi/Projects/C++Projects/Calculator/source/headers/multiplication.h
+

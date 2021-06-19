@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jaladi/Projects/C++Projects/Calculator/source/headers/subtraction.cpp
+subtraction.h
+/home/jaladi/Projects/C++Projects/Calculator/source/headers/subtraction.h
+
+/home/jaladi/Projects/C++Projects/Calculator/source/headers/subtraction.h
+

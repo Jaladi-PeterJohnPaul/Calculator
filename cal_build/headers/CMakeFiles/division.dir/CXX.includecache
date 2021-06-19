@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jaladi/Projects/C++Projects/Calculator/source/headers/division.cpp
+division.h
+/home/jaladi/Projects/C++Projects/Calculator/source/headers/division.h
+
+/home/jaladi/Projects/C++Projects/Calculator/source/headers/division.h
+

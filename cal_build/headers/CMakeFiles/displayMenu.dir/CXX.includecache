@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jaladi/Projects/C++Projects/Calculator/source/headers/displayMenu.cpp
+iostream
+-
+displayMenu.h
+/home/jaladi/Projects/C++Projects/Calculator/source/headers/displayMenu.h
+
+/home/jaladi/Projects/C++Projects/Calculator/source/headers/displayMenu.h
+

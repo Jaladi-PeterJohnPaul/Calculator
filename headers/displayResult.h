@@ -1,0 +1,1 @@
+void displayResult(int Result);

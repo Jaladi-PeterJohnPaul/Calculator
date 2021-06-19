@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdisplayMenu.a  CMakeFiles/displayMenu.dir/displayMenu.cpp.o
+/usr/bin/ranlib libdisplayMenu.a
